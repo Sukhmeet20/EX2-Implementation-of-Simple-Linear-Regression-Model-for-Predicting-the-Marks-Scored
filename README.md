@@ -62,18 +62,14 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 ## Output:
-![Screenshot 2024-10-03 140208](https://github.com/user-attachments/assets/91050399-0648-4f4c-89c1-342856fbc7e1)
-![Screenshot 2024-10-03 140300](https://github.com/user-attachments/assets/811b6578-2cec-49ea-9ef6-7a683b7401e0)
-![Screenshot 2024-10-03 140305](https://github.com/user-attachments/assets/b955828b-1ed1-484c-86df-52cc182bbf59)
-![Screenshot 2024-10-03 140312](https://github.com/user-attachments/assets/b6db5959-7393-45a7-89fc-87e94e2861d8)
-![Screenshot 2024-10-03 140330](https://github.com/user-attachments/assets/c9e22d79-f929-429c-ab86-ced3837bbb80)
-![Screenshot 2024-10-03 140336](https://github.com/user-attachments/assets/03ce0e9e-c6db-4dc1-bebf-52fde9e24d5d)
-![Screenshot 2024-10-03 140348](https://github.com/user-attachments/assets/6080e265-f46e-4c24-9ff9-e937498682cd)
-![Screenshot 2024-10-03 140356](https://github.com/user-attachments/assets/37f07f18-3922-4959-bd72-68c804e02e54)
-![Screenshot 2024-10-03 140402](https://github.com/user-attachments/assets/b5d4ab1e-99fb-4de8-bcc7-380629d734fb)
-
-
-
-
+![Screenshot 2024-10-17 092347](https://github.com/user-attachments/assets/afbc67d2-798e-42f4-b9ff-763a466024b1)
+![Screenshot 2024-10-17 092401](https://github.com/user-attachments/assets/94c6eb7c-460f-49ab-bb29-483fe91a0eed)
+![Screenshot 2024-10-17 092413](https://github.com/user-attachments/assets/af989cb2-54e6-47dd-b210-3c69bbd204a2)
+![Screenshot 2024-10-17 092421](https://github.com/user-attachments/assets/bedb6d00-9ece-4dda-9a7a-bc5ea134281f)
+![Screenshot 2024-10-17 092433](https://github.com/user-attachments/assets/58c2153a-c4db-416e-8720-6ae668145e58)
+![Screenshot 2024-10-17 092440](https://github.com/user-attachments/assets/b64a35d3-6489-4326-b9cf-e8d82ae45401)
+![Screenshot 2024-10-17 092455](https://github.com/user-attachments/assets/043de9a3-2dc0-4407-804e-f109538740ba)
+![Screenshot 2024-10-17 092515](https://github.com/user-attachments/assets/9a13769d-1551-4563-992f-b6690a30ef77)
+![Screenshot 2024-10-17 092523](https://github.com/user-attachments/assets/b7122c6f-86c3-409d-bec3-d3a4efad64b9)
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
